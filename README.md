@@ -19,7 +19,7 @@ Some of my contributions to this project are:
   - buy_ticket.php[^1] ,
   - regulamin.php & style_regul.css. 
 
- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
  
 ## PL
 Platforma do organizowania i oglądania wydarzeń.
@@ -39,7 +39,7 @@ Niektóre z moich wkładów w ten projekt to:
   - buy_ticket.php[^2] ,
   - regulamin.php & style_regul.css.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 [^1]: to access this, you will need to open the 'event.php' file in the web browser and click the 'Kup bilet' button.
 [^2]: aby uzyskać do tego dostęp, należy otworzyć plik 'event.php' w przeglądarce i kliknąć przycisk 'Kup bilet'.
