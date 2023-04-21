@@ -19,6 +19,8 @@ Some of my contributions to this project are:
   - buy_ticket.php* ,
   - regulamin.php & style_regul.css. 
 
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
 ->PL<-
 Platforma do organizowania i oglądania wydarzeń.
 
