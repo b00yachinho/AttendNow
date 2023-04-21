@@ -39,5 +39,7 @@ Niektóre z moich wkładów w ten projekt to:
   - buy_ticket.php* ,
   - regulamin.php & style_regul.css.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 *(EN) to access this, you will need to open the 'event.php' file in the web browser and click the 'Kup bilet' button
 *(PL) aby uzyskać do tego dostęp, należy otworzyć plik 'event.php' w przeglądarce i kliknąć przycisk 'Kup bilet'
