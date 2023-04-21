@@ -16,7 +16,7 @@ Some of my contributions to this project are:
 - files, such as:
   - index.php & style_index.css & script_index.js (this one contains the code for the backgrounnd, that can be seen throghout the website),
   - fav_events.php & style_fav_events.css,
-  - buy_ticket.php* ,
+  - buy_ticket.php[^1] ,
   - regulamin.php & style_regul.css. 
 
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -36,10 +36,10 @@ Niektóre z moich wkładów w ten projekt to:
 - pliki takie jak:
   - index.php & style_index.css & script_index.js (ten plik zawiera kod tła, które widoczne jest na każdej stronie),
   - fav_events.php & style_fav_events.css,
-  - buy_ticket.php* ,
+  - buy_ticket.php[^2] ,
   - regulamin.php & style_regul.css.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-*(EN) to access this, you will need to open the 'event.php' file in the web browser and click the 'Kup bilet' button
-*(PL) aby uzyskać do tego dostęp, należy otworzyć plik 'event.php' w przeglądarce i kliknąć przycisk 'Kup bilet'
+[^1]: to access this, you will need to open the 'event.php' file in the web browser and click the 'Kup bilet' button.
+[^2]: aby uzyskać do tego dostęp, należy otworzyć plik 'event.php' w przeglądarce i kliknąć przycisk 'Kup bilet'.
