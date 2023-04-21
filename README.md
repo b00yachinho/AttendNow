@@ -1,6 +1,6 @@
-# AttendNow
+# AttendNow 
 
-### EN
+## **EN**
 A platform for organizing and viewing of events.
 
 "AttendNow" will be a platform, available on web browsers, for viewing and announcing various cultural events. It will have capabilities ranging from organizing small
@@ -19,9 +19,10 @@ Some of my contributions to this project are:
   - buy_ticket.php[^1] ,
   - regulamin.php & style_regul.css. 
 
+> **WORK IN PROGRESS**
  
  
-### PL
+## **PL**
 Platforma do organizowania i oglądania wydarzeń.
 
 "AttendNow" będzie platformą, dostępną na przeglądarkach internetowych, służącą do przeglądania i zapowiadania różnych wydarzeń kulturalnych. Będzie ona miała możliwości od organizowania małych rzeczy, takich jak spotkania ze znajomymi, po rzeczy duże, takie jak koncerty czy festiwale. Na platformie będą wyświetlane
@@ -39,6 +40,7 @@ Niektóre z moich wkładów w ten projekt to:
   - buy_ticket.php[^2] ,
   - regulamin.php & style_regul.css.
 
+> **PRACA W TOKU**
 
 
 [^1]: to access this, you will need to open the 'event.php' file in the web browser and click the 'Kup bilet' button.
