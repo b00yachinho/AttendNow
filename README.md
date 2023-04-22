@@ -1,7 +1,7 @@
 # AttendNow 
 
 ## **EN**
-A platform for organizing and viewing of events.
+An internet platform for organizing and viewing of events.
 
 "AttendNow" will be a platform, available on web browsers, for viewing and announcing various cultural events. It will have capabilities ranging from organizing small
 things, such as meetings with friends, to large things, such as concerts or festivals. The platform will display
@@ -23,7 +23,7 @@ Some of my contributions to this project are:
  
  
 ## **PL**
-Platforma do organizowania i oglądania wydarzeń.
+Platforma internetowa do organizowania i oglądania wydarzeń.
 
 "AttendNow" będzie platformą, dostępną na przeglądarkach internetowych, służącą do przeglądania i zapowiadania różnych wydarzeń kulturalnych. Będzie ona miała możliwości od organizowania małych rzeczy, takich jak spotkania ze znajomymi, po rzeczy duże, takie jak koncerty czy festiwale. Na platformie będą wyświetlane
 wydarzenia, które są organizowane w pobliżu urządzenia, na którym platforma jest uruchomiona.
