@@ -3,7 +3,7 @@
 ## **EN**
 An internet platform for organizing and viewing of events.
 
-"AttendNow" will be a platform, available on web browsers, for viewing and announcing various cultural events. It will have capabilities ranging from organizing small
+"AttendNow" is a platform, available on web browsers, for viewing and announcing various cultural events. It will have capabilities ranging from organizing small
 things, such as meetings with friends, to large things, such as concerts or festivals. The platform will display
 events that are organized in the vicinity of the device on which the platform is running.
 
@@ -25,7 +25,7 @@ Some of my contributions to this project are:
 ## **PL**
 Platforma internetowa do organizowania i oglądania wydarzeń.
 
-"AttendNow" będzie platformą, dostępną na przeglądarkach internetowych, służącą do przeglądania i zapowiadania różnych wydarzeń kulturalnych. Będzie ona miała możliwości od organizowania małych rzeczy, takich jak spotkania ze znajomymi, po rzeczy duże, takie jak koncerty czy festiwale. Na platformie będą wyświetlane
+"AttendNow" jest platformą, dostępną na przeglądarkach internetowych, służącą do przeglądania i zapowiadania różnych wydarzeń kulturalnych. Będzie ona miała możliwości od organizowania małych rzeczy, takich jak spotkania ze znajomymi, po rzeczy duże, takie jak koncerty czy festiwale. Na platformie będą wyświetlane
 wydarzenia, które są organizowane w pobliżu urządzenia, na którym platforma jest uruchomiona.
 
 Aby uruchomić ten projekt, należy pobrać folder do katalogu 'htdocs' wewnątrz katalogu XAMPP. Następnie należy otworzyć XAMPP Control Panel i
